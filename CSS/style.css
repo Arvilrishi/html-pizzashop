@@ -1,0 +1,5 @@
+th,td,caption{
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 1rem;
+}
